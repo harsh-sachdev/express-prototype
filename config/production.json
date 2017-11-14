@@ -1,0 +1,14 @@
+{
+  "appConfig": {
+    "appName": "cover singers",
+    "port":"3000",
+    "env": "production",
+    "host": ""
+  },
+  "dbConfig": {
+    "host"     : "",
+    "user"     : "",
+    "password" : "",
+    "database" : ""
+  }
+}

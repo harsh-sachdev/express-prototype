@@ -1,0 +1,15 @@
+{
+  "appConfig": {
+    "appName": "cover singers",
+    "port":"3002",
+    "env": "local",
+    "host": "localhost:3002"
+  },
+  "dbConfig": {
+    "host"     : "localhost",
+    "port"     : "27017",
+    "database" : "coversingers",
+    "user"     : "",
+    "password" : ""
+  }
+}
